@@ -14,12 +14,12 @@ config = {
 	background = {
 		{
 			source = {
-				File = "/Users/swoo/Pictures/DSC_2416.jpg",
+				File = "/Users/swoo/bg.png",
 			},
 			hsb = {
 				hue = 1.0,
 				saturation = 1.02,
-				brightness = 0.15,
+				brightness = 0.35,
 			},
 			width = "100%",
 			height = "100%",
